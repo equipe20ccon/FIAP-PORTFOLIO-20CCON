@@ -1,0 +1,241 @@
+[
+{
+    "id": 1,
+    "tema": "Documentação",
+    "pergunta": "Como consultar o CPF?",
+    "palavras_chave": [
+        "cpf",
+        "consultar cpf",
+        "situação cadastral",
+        "regularidade",
+        "receita federal",
+        "verificar cpf",
+        "cpf irregular"
+    ],
+    "orientacao": "A consulta da situação cadastral do CPF pode ser realizada pelo serviço oficial da Receita Federal na aba 'Meu CPF' cujo disponibiliza a opção 'Consultar CPF'.",
+    "fonte": "https://www.gov.br/receitafederal/",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 2,
+    "tema": "Documentação",
+    "pergunta": "Como emitir a CIN?",
+    "palavras_chave": [
+        "cin",
+        "carteira de identidade nacional",
+        "documento de identidade",
+        "emissão de documento",
+        "tirar cin"
+    ],
+    "orientacao": "A emissão da Carteira de Identidade Nacional (CIN) pode ser realizada com um agendamento prévio no site do Poupatempo, onde o cidadão deve comparecer ao posto de atendimento para concluir o processo.",
+    "fonte": "https://www.poupatempo.sp.gov.br/carta/D97C3844-A2D9-4C9E-B364-CB4FEB26A1FB",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 3,
+    "tema": "Documentação",
+    "pergunta": "Como acessar a carteira de trabalho digital?",
+    "palavras_chave": [
+        "carteira de trabalho",
+        "digital",
+        "acesso",
+        "clt digital",
+        "aplicativo da clt"
+    ],
+    "orientacao": "A carteira de trabalho digital pode ser acessada por meio do aplicativo oficial da Carteira de Trabalho Digital, disponível para download em dispositivos móveis.",
+    "fonte": "https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 4,
+    "tema": "Documentação",
+    "pergunta": "Como regularizar o título de eleitor?",
+    "palavras_chave": [
+        "título de eleitor",
+        "regularização",
+        "eleição",
+        "votação"
+    ],
+    "orientacao": "A regularização do título de eleitor pode ser realizada no site do Tribunal Superior Eleitoral (TSE) na aba de Autoatendimento Eleitoral.",
+    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2025/Janeiro/confira-o-que-fazer-para-regularizar-o-titulo-de-eleitor",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 5,
+    "tema": "Documentação",
+    "pergunta": "Como consultar a CNH?",
+    "palavras_chave": [
+        "cnh",
+        "habilitação",
+        "consulta",
+        "situação",
+        "carteira nacional de habilitação"
+    ],
+    "orientacao": "A consulta da CNH pode ser realizada no site do Departamento Estadual de Trânsito (DETRAN) na categoria 'Habilitação'.",
+    "fonte": "https://www.detran.sp.gov.br/",
+    "data_verificacao": "2026-11-09"
+},
+{
+    "id": 6,
+    "tema": "Serviços Públicos",
+    "pergunta": "Como se cadastrar no CadÚnico?",
+    "palavras_chave": [
+        "cadúnico",
+        "cadastro único",
+        "programa social",
+        "registro",
+        "benefício social"
+    ],
+    "orientacao": "Para se inscrever no Cadastro Único é preciso ir pessoalmente, num posto de atendimento. O responsável pela família precisa levar um documento com foto, CPF, comprovante de residência e documentos de membros do grupo familiar.",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 7,
+    "tema": "Serviços Públicos",
+    "pergunta": "Como consultar informações sobre o Bolsa Família?",
+    "palavras_chave": [
+        "bolsa família",
+        "programa social",
+        "informações",
+        "consulta",
+        "bolsa"
+    ],
+    "orientacao": "Informações sobre o programa social Bolsa Família podem ser consultadas no site oficial do Governo Federal, onde é possível verificar critérios de elegibilidade, benefícios e procedimentos para inscrição.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 8,
+    "tema": "Serviços Públicos",
+    "pergunta": "Como consultar benefícios do INSS?",
+    "palavras_chave": [
+        "benefício",
+        "INSS",
+        "consulta",
+        "instituto nacional de seguro social"
+    ],
+    "orientacao": "Os benefícios do INSS podem ser consultados no site oficial do Instituto Nacional do Seguro Social, onde é possível verificar informações sobre aposentadorias, pensões e auxílios.",
+    "fonte": "https://www.gov.br/pt-br/orgaos/instituto-nacional-do-seguro-social",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 9,
+    "tema": "Serviços Públicos",
+    "pergunta": "Como criar ou acessar uma conta Gov.br?",
+    "palavras_chave": [
+        "gov.br",
+        "criação",
+        "recuperação",
+        "site do governo",
+        "conta gov"
+    ],
+    "orientacao": "A criação ou acesso de uma conta Gov.br pode ser realizada pelo site oficial do Governo Federal, pressionando o botão azul 'Entrar com gov.br' e preenchendo as abas com CPF e senha.",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 10,
+    "tema": "Serviços Públicos",
+    "pergunta": "Como emitir ou consultar o Cartão de Estacionamento para Idoso?",
+    "palavras_chave": [
+        "estacionamento",
+        "pessoa idosa",
+        "direito",
+        "veículo",
+        "idoso",
+        "cartão de estacionamento",
+        "credencial de estacionamento"
+    ],
+    "orientacao": "Faça o login no app Carteira Digital de Trânsito instalado no celular e clique em 'Condutor', localizado na tela principal. Na tela seguinte, clique em 'Credencial de Estacionamento'. Em seguida, selecione entre as opções 'Credencial de idoso'.",
+    "fonte": "https://www.gov.br/pt-br/servicos/emitir-credencial-de-estacionamento-digital",
+    "data_verificacao": "2026-11-11"
+},
+
+{
+    "id": 11,
+    "tema": "Direitos e Orientações",
+    "pergunta": "Como registrar uma reclamação no Procon?",
+    "palavras_chave": [
+        "procon",
+        "reclamação",
+        "consumidor",
+        "denúncia"
+    ],
+    "orientacao": "A reclamação pode ser registrada no Procon através do site oficial ou pelo telefone de atendimento.",
+    "fonte": "https://www.procon.sp.gov.br/",
+    "data_verificacao": "2026-11-09"
+},
+{
+    "id": 12,
+    "tema": "Direitos e Orientações",
+    "pergunta": "Como denunciar uma situação de violência contra a mulher?",
+    "palavras_chave": [
+        "violência contra a mulher",
+        "violência doméstica",
+        "proteção",
+        "apoio",
+        "maria da penha",
+        "denúncia"
+    ],
+    "orientacao": "A denúncia de violência contra a mulher pode ser feita pelo telefone 180, que é o canal oficial do Governo Federal para receber denúncias e fornecer orientação sobre medidas de proteção.",
+    "fonte": "https://www.gov.br/mulheres/pt-br/ligue180",
+    "data_verificacao": "2026-11-09"
+},
+
+{
+    "id": 13,
+    "tema": "Direitos e Orientações",
+    "pergunta": "Como denunciar maus-tratos contra animais?",
+    "palavras_chave": [
+        "maus-tratos contra animais",
+        "denúncia",
+        "proteção",
+        "bem-estar animal"
+    ],
+    "orientacao": "No estado de São Paulo, as denuncias de maus-tratos animais podem ser feitas através do  site da Delegacia Eletrônica de Proteção Animal (Depa).",
+    "fonte": "https://www.agenciasp.sp.gov.br/seguranca-publica/denuncia-maus-tratos-animais-sp/",
+    "data_verificacao": "2026-11-10"
+},
+
+{
+    "id": 14,
+    "tema": "Direitos e Orientações",
+    "pergunta": "Quais são os direitos de uma pessoa com deficiência no atendimento público?",
+    "palavras_chave": [
+        "pcd",
+        "direitos",
+        "pessoa com deficiência",
+        "atendimento público",
+        "acessibilidade",
+        "acessível"
+    ],
+    "orientacao": "A legislação brasileira prevê que as pessoas com deficiência têm direito a atendimento prioritário e acessível em serviços públicos, incluindo adaptações razoáveis para garantir a igualdade de oportunidades e a não discriminação.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+    "data_verificacao": "2026-11-10"
+},
+
+{
+    "id": 15,
+    "tema": "Direitos e Orientações",
+    "pergunta": "Como solicitar o seguro-desemprego?",
+    "palavras_chave": [
+        "solicitação",
+        "pedido",
+        "seguro desemprego",
+        "direito",
+        "trabalhista"
+    ],
+    "orientacao": "É possível solicitar pelo Portal de Serviços, aplicativo da Carteira de Trabalho Digital ou plataforma FACILITA com acesso do gov.br. É necessário ter o Documento do Requerimento do Seguro-Desemprego e CPF.",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "data_verificacao": "2026-11-10"
+}
+]

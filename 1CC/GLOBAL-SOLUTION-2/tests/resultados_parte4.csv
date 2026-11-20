@@ -1,0 +1,16 @@
+caso,categoria,metodo,entrada,esperado,obtido,status,tempo_ms
+1,Direta,palavra_chave,'Como consultar o CPF?',ID 1,ID 1,ACERTO,0.2541
+2,Direta,palavra_chave,'Como emitir a CIN?',ID 2,ID 2,ACERTO,0.1761
+3,Direta,palavra_chave,'Como se cadastrar no CadÚnico?',ID 6,ID 6,ACERTO,0.1688
+4,Direta,palavra_chave,'Como solicitar o seguro-desemprego?',ID 15,ID 15,ACERTO,0.1761
+5,Direta,id,'9',ID 9,ID 9,ACERTO,0.0339
+6,Direta,tema,'Documentação',5 registros,5 registros,ACERTO,0.066
+7,Variação de escrita,palavra_chave,'SITUAÇÃO CADASTRAL CPF',ID 1,"IDs [1, 5]",ACERTO,0.1831
+8,Variação de escrita,palavra_chave,'titulo de eleitor regularizacao',ID 4,ID 4,ACERTO,0.1792
+9,Variação de escrita,palavra_chave,'credencial de estacionamento para pessoa idosa',ID 10,ID 10,ACERTO,0.2168
+10,Fora do assunto,palavra_chave,'Como preparar uma receita de bolo de chocolate?',Vazio,Vazio,ACERTO,0.1848
+11,Fora do assunto,palavra_chave,'Qual a previsão do tempo para amanhã?',Vazio,Vazio,ACERTO,0.1724
+12,Limite (Entrada vazia),palavra_chave,'   ',Vazio,Vazio,ACERTO,0.002
+13,Limite (Consulta vaga/stopwords),palavra_chave,'como posso consultar',Vazio,Vazio,ACERTO,0.0036
+14,Limite (Consulta ambígua),palavra_chave,'denúncia',"IDs [11, 12, 13]","IDs [11, 12, 13]",ACERTO,0.1704
+15,Limite (Sem base confiável),palavra_chave,'Como tirar passaporte de emergência na Polícia Federal?',Vazio,Vazio,ACERTO,0.173
